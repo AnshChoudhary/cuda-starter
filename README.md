@@ -75,5 +75,9 @@ is itself a useful lesson).
 
 Once both pass and you understand *why* each TODO works (not just that it
 compiles), move to Simon Boehm's CUDA matmul worklog
-(https://siboehm.com/articles/22/CUDA-MMM) and implement each of his
-kernels yourself in this same project structure — that's Phase 2.
+([siboehm.com/articles/22/CUDA-MMM](https://siboehm.com/articles/22/CUDA-MMM))
+and implement each of his kernels yourself in this same project structure —
+that's Phase 2.
+
+See [`readings/22-cuda-mmm.md`](readings/22-cuda-mmm.md) for a roadmap of
+the article's progression and how it connects to Phase 1 concepts.
