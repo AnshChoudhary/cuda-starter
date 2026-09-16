@@ -81,3 +81,7 @@ that's Phase 2.
 
 See [`readings/22-cuda-mmm.md`](readings/22-cuda-mmm.md) for a roadmap of
 the article's progression and how it connects to Phase 1 concepts.
+
+See [`readings/cuda-matmul-kernel-agents.md`](readings/cuda-matmul-kernel-agents.md)
+for a primer on the CUDA-MMM article, who needs kernel agents, and sequencing
+advice for targeting NVIDIA's SOL-ExecBench leaderboard.
